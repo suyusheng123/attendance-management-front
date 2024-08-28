@@ -2,7 +2,8 @@
 
 ## 项目说明：
 
-​	**前端是基于elementUI(vue2.x)用vue脚手架搭建的前后端分离项目**
+​**前端是基于elementUI(vue2.x)用vue脚手架搭建的前后端分离项目**
+这个是我根据一个开源博主改编而来的系统，前端加了一些数据校验的验证项，加了一个加班管理，后端的话改了一下考勤的逻辑，加了加班管理，源地址：https://gitee.com/Liuk9805/ams
 
 
 
@@ -28,7 +29,7 @@ elementUI语法请移步：https://element.eleme.cn/#/zh-CN/component/installati
 
 ## 至于IDE：
 
-**HBuilder X， vscode(推荐)**
+vscode(推荐)**
 
 命令启动:
 
